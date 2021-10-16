@@ -10,7 +10,7 @@ const AddTask = (props) => {
         e.preventDefault()
 
         if (!text) {
-            alert('add task')
+            alert('Dodaj nazwę dupy gnojku')
             return
         }
 
